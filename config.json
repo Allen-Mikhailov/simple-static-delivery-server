@@ -1,0 +1,14 @@
+{
+    "root-dir": "./src",
+    "dir-page": "index.html",
+    "404Page": "404.html",
+
+    "response-types": {
+        "js": "text/javascript ",
+        "json": "application/json",
+        "jpg": "image/jpeg",
+        "html": "text/html",
+        "ico": "image/x-icon",
+        "css": "text/css"
+    }
+}
